@@ -327,10 +327,10 @@ __해결__<br>
 ## REACT 학습 및 생성 ##
 
 ### 231124 ###
- <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
  
 💻 https://wkd6262.github.io/mobileExx/
--리액트에 대해 학습한 후 처음 만든 모바일 웹 입니다. 이 과정을 통해 컴포넌트에 대한 구조와 Link 라우터 SPA에 대해 개념을 알았고 리액트의 매력에 빠져버렸습니다.
+- 리액트에 대해 학습한 후 처음 만든 모바일 웹 입니다. 이 과정을 통해 컴포넌트에 대한 구조와 Link 라우터 SPA에 대해 개념을 알았고 리액트의 매력에 빠져버렸습니다.
 
 ### 231126 ###
  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
