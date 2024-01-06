@@ -330,3 +330,9 @@ __해결__<br>
  
 💻 https://wkd6262.github.io/mobileExx/
 - 리액트에 대해 학습한 후 처음 만든 모바일 웹 입니다. 이 과정을 통해 컴포넌트에 대한 구조와 Link 라우터 SPA에 대해 개념을 알았고 리액트의 매력에 빠져버렸습니다.
+
+### 231124 ###
+ <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+ 
+💻 https://wkd6262.github.io/Gallery/
+- Fixabay의 이미지를 받아오는 axios,express를 사용하여 호출 하였고 map함수로 불필요한 함수사용을 줄여 출력하였습니다. - 저는 네이버 검색 효과를 주고싶어 느낌을 클론하였고 검색어에 따라 출력 되는 방식으로 구현하였습니다.
