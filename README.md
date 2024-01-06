@@ -170,6 +170,10 @@ __해결__<br>
 - 요소(Element): 여는 태그, 닫는 태그, 내용을 통틀어 요소(element)라고한다.
 ## HTML 주석 처리 방법 및 HTML 구조 ##
 ![1](https://github.com/wkd6262/home/assets/142865132/d5c2d7e5-135d-4c71-a2af-0a2f8018bc7e)
+## pull request Check
+- pull request 버튼클릭
+- 내용 검토
+- 수정된 내용을 나의 github repository 반영하려면 Merge pull request 클릭
 
 ## 230901 ##
 ### 테이블 연습 ###
@@ -282,7 +286,4 @@ __해결__<br>
 </body>
 </html>
 
-## pull request Check
-- pull request 버튼클릭
-- 내용 검토
-- 수정된 내용을 나의 github repository 반영하려면 Merge pull request 클릭
+
