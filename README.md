@@ -293,7 +293,7 @@ __해결__<br>
 - 프론트엔드 학원 과정으로 테이블을 이용한 웹 사이트 구조를 만들었습니다.
 
 ### 231009 fanstarEx ###
-💻https://wkd6262.github.io/panstarEx/
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> https://wkd6262.github.io/panstarEx/
 - 팬스타 웹 페이지에 대한 구조 분석 후 flex,js등 다양한 정보를 학습하며 얻어갔습니다.
 
 ### 231010 indexPc Ex ###
