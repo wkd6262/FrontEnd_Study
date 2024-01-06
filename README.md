@@ -290,13 +290,14 @@ __해결__<br>
 
 ### 230920 web Ex ###
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
- 
-
 
 💻https://wkd6262.github.io/kims/
 - 프론트엔드 학원 과정으로 테이블을 이용한 웹 사이트 구조를 만들었습니다.
 
 ### 231009 fanstarEx ###
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  
 💻https://wkd6262.github.io/panstarEx/
 - 팬스타 웹 페이지에 대한 구조 분석 후 flex,js등 다양한 정보를 학습하며 얻어갔습니다.
 
