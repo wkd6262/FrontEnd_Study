@@ -302,10 +302,14 @@ __해결__<br>
 - 팬스타 웹 페이지에 대한 구조 분석 후 flex,js등 다양한 정보를 학습하며 얻어갔습니다.
 
 ### 231010 indexPc Ex ###
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+
 💻https://wkd6262.github.io/indexPc/
 - 클론 하고 싶은 웹 페이지를 선정 한 후 다양한 효과와 좀 더 실력이 상승하게 된 계기가 된 거 같습니다.
 
 ### 231016 ###
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+
 💻https://wkd6262.github.io/mediaQuery/
 - 미디어 쿼리에 대한 이해와 웹 애플리케이션에 대한 구조 파악을 학습하게 되어 재미와 개선해야 할 점을 많이 얻었습니다.
 
@@ -313,6 +317,10 @@ __해결__<br>
 💻 https://wkd6262.github.io/swiperEx/
 - swiper에 대해 학습하여 페이지로 나타냈습니다. swiper의 구조가 무엇인지 어떤 흐름으로 실행이 되는지 다양한 효과도 적용해보고 var--로 적용 된 css를 수정도 해보고 넣어봤습니다.
 
+### 231030 ~ 231114 자바스크립트를 이용한 팀 프로젝트 ##
+👨🏻‍💻https://jjc0822.github.io/JJC/
+- 프론트 엔드 첫 팀프로젝트 입니다. 코드가이드라인, 자바스크립트에 대한 이해를 바탕으로 css로만 보여줄 수 없는 이벤트, 멀티 페이지 등 많은 걸 배웠던 과정이였습니다.
+- 노션 - 정리 보고서 https://www.notion.so/JJC-e103dea312bc4639a226152e43733e57?pvs=4
 ## REACT 학습 및 생성 ##
 
 ### 231124 ###
