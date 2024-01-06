@@ -285,8 +285,16 @@ __해결__<br>
   </table>
 </body>
 </html>
-
-## 230920 web Ex ##
+## 클론 학습 ##
+### 230920 web Ex ###
 💻https://wkd6262.github.io/kims/
 - 프론트엔드 학원 과정으로 테이블을 이용한 웹 사이트 구조를 만들었습니다.
-
+### 231009 fanstarEx ###
+💻https://wkd6262.github.io/panstarEx/
+- 팬스타 웹 페이지에 대한 구조 분석 후 flex,js등 다양한 정보를 학습하며 얻어갔습니다.
+### 231010 indexPc Ex ###
+💻https://wkd6262.github.io/indexPc/
+- 클론 하고 싶은 웹 페이지를 선정 한 후 다양한 효과와 좀 더 실력이 상승하게 된 계기가 된 거 같습니다.
+### 231016 ###
+💻https://wkd6262.github.io/mediaQuery/
+- 미디어 쿼리에 대한 이해와 웹 애플리케이션에 대한 구조 파악을 학습하게 되어 재미와 개선해야 할 점을 많이 얻었습니다.
